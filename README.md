@@ -1,4 +1,6 @@
-My name is tack!
+- Write Code Every Day
+- Workout Every Day 
+- Study English Every Day 
 
 <!---
 tec-tack/tec-tack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
